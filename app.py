@@ -91,13 +91,13 @@ if st.button('Recommend'):
        st.text(names[9])
        st.image(posters[9])
 
-
-
-
-
-
-
-
-
-
 st.subheader("This online movie recommendation system is developed by Suman K.C,Kamal Mahara and Yogesh Subedi.")
+
+
+
+
+
+
+
+
+
