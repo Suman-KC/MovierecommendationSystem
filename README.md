@@ -1,7 +1,16 @@
 # MovierecommendationSystem
 This is one of the awesome movie recommendation system that i have built. It gives recommendation on the basis of content that you have seareched.
 
+# Tech Stack:
+  - Python
+  - Streamlit For Frontend
+  - Machine learning
+  - Jupyter Notebook
 
+# Features:
+  - Input name of movie
+  - View list of recommended movies
+ 
 
 
 
